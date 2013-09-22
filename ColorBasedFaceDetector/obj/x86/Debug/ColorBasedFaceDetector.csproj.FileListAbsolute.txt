@@ -1,0 +1,7 @@
+c:\users\ani\documents\visual studio 2010\Projects\ColorBasedFaceDetector\ColorBasedFaceDetector\bin\Debug\ColorBasedFaceDetector.exe
+c:\users\ani\documents\visual studio 2010\Projects\ColorBasedFaceDetector\ColorBasedFaceDetector\bin\Debug\ColorBasedFaceDetector.pdb
+c:\users\ani\documents\visual studio 2010\Projects\ColorBasedFaceDetector\ColorBasedFaceDetector\obj\x86\Debug\ColorBasedFaceDetector.Form1.resources
+c:\users\ani\documents\visual studio 2010\Projects\ColorBasedFaceDetector\ColorBasedFaceDetector\obj\x86\Debug\ColorBasedFaceDetector.Properties.Resources.resources
+c:\users\ani\documents\visual studio 2010\Projects\ColorBasedFaceDetector\ColorBasedFaceDetector\obj\x86\Debug\ColorBasedFaceDetector.csproj.GenerateResource.Cache
+c:\users\ani\documents\visual studio 2010\Projects\ColorBasedFaceDetector\ColorBasedFaceDetector\obj\x86\Debug\ColorBasedFaceDetector.exe
+c:\users\ani\documents\visual studio 2010\Projects\ColorBasedFaceDetector\ColorBasedFaceDetector\obj\x86\Debug\ColorBasedFaceDetector.pdb
